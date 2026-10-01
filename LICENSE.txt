@@ -1,0 +1,22 @@
+LinkPage License
+
+Copyright (c) 2026 [Noah Williams]
+
+By purchasing LinkPage you receive a non-exclusive license to:
+
+  ✓ Use it for unlimited personal and commercial link pages
+  ✓ Modify it however you like
+  ✓ Build link pages for your clients (each client page is an "end product")
+
+You may NOT:
+
+  ✗ Resell, redistribute, sublicense, or give away the template itself
+    (modified or unmodified), including as part of another template,
+    theme, or code kit
+  ✗ Publish the source code in a public repository as a template
+    (a public repo that hosts your own live page is fine)
+
+Brand icons are loaded from Simple Icons (CC0). Brand names and logos
+belong to their respective owners.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
